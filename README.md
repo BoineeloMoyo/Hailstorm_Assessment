@@ -1,6 +1,6 @@
 # Assessing and monitoring the impacts of a hailstorm on crops in Assiniboia, Canada
 Using geemap for assessing crop damage
-## Complete and detailed blod about this project can be found [Here](https://storymaps.com/stories/35aa56593a754a77899364fe622da5f4) om my StoryMap. 
+## A Complete and detailed blog about this project can be found [Here](https://storymaps.com/stories/35aa56593a754a77899364fe622da5f4) om my StoryMap. 
 
 1. Introduction
 
