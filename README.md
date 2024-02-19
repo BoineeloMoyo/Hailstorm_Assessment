@@ -1,4 +1,5 @@
 # Assessing the impacts of a hailstorm on crops in Assiniboia, Canada
+### A cloud computing approach - geemap, google earth engine
 
 ## A Complete and detailed blog about this project can be found [Here](https://storymaps.com/stories/35aa56593a754a77899364fe622da5f4) on my StoryMap. 
 
